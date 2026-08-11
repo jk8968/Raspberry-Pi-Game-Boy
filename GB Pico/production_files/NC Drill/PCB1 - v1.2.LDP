@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Jakob\1. Projects\4. Gaming Console\2. Pico - Classic GB\1. Altium\Pico\PCB1 - v1.2.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb1 - v1.2-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb1 - v1.2-nonplated.txt|DrillLayers=gtl,gbl
